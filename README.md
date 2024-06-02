@@ -3,7 +3,7 @@
 <br>
 <h1 align="center">Hi 👋, I'm Hiruni Thathsarani</h1>
 <h3 align="center">Undergraduate student in University of Mortuwa.</h3>
-<img src="https://github.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/assets/74038190/de30015f-dc5f-4ecf-a49b-ccd2b89776e4" width="500">
+
 <br><br>
 
 - 🌱 I’m currently learning **Springboot,react native**
