@@ -10,7 +10,7 @@
 
 - 💬 Ask me about **react,java**
 
-- 📫 How to reach me **hirunithathsaranimdh.21@uom.lk**
+- 📫 How to reach me **thathsaranimdh.21@uom.lk**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
