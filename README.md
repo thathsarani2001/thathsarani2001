@@ -4,6 +4,8 @@
 <h1 align="center">Hi 👋, I'm Hiruni Thathsarani</h1>
 <h3 align="center">Undergraduate student in University of Mortuwa.</h3>
 
+<a href="https://stackoverflow.com/users/hiruni thathsarani" target="blank"><img align="center" src="https://uom.lk/assets/images/Uni_emblem.jpg" alt="hiruni thathsarani" height="30" width="40" /></a>
+
 <br><br>
 
 - 🌱 I’m currently learning **Springboot,react native**
